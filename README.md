@@ -28,7 +28,7 @@
 Refer to [Surgical VQLA](https://github.com/longbai1006/Surgical-VQLA) for EndoVis-17-VQLA and EndoVis-18-VQLA Dataset.
 
 ### EndoVis Conversations Dataset
-Our own EndoVis Conversations Dataset can be downloaded [here] (https://drive.google.com/drive/folders/1UtR75us6xTosuZXoUUmtb4Hbh0TRUmck?usp=sharing).
+Our own EndoVis Conversations Dataset can be downloaded [here](https://drive.google.com/drive/folders/1UtR75us6xTosuZXoUUmtb4Hbh0TRUmck?usp=sharing).
 
 ---
 
