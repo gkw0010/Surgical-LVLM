@@ -33,7 +33,8 @@ Our own EndoVis Conversations Dataset can be downloaded [here] (https://drive.go
 ---
 
 
-## Run training of Qwen-VL
+## Training
+### Run training of Qwen-VL
 - Train on original Qwen-VL
     ```bash
     sh finetune/finetune_lora_ds.sh
@@ -43,7 +44,7 @@ Our own EndoVis Conversations Dataset can be downloaded [here] (https://drive.go
     ```bash
     sh finetune/finetune_lora_ds_ga.sh
     ```
-
+### Run training of Grounding Model
 - Train for Visual Grounding with Multimodal Alignment 
     ```bash
     python cat-vil/train.py --model cat --validate True --checkpoint_dir checkpoints/cat_o
